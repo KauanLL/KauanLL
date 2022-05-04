@@ -1,11 +1,9 @@
 ### Olá 👋
 
 
-:mortar_board: - Cursando Tecnologo em ADS
-
 :briefcase: - Estou a procura do primeiro emprego em TI :four_leaf_clover:
 
-:computer: - Atualmente focando em **Python**
+:computer: - Bootcamp StartandoDevs
 
 :bust_in_silhouette: - [Linkedin][Lkd]
 
